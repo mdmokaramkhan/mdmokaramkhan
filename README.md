@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mokaram Khan</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on [Aikon Inforserve](http://www.arecharge.com)
-
 - 🌱 I’m currently learning **Python, HTML, CSS, JS**
 
 - 👨‍💻 All of my projects are available at [https://mokaram.spdpay.in](https://mokaram.spdpay.in)
