@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mokaram.spdpay.in](https://mokaram.spdpay.in)
 
-- 💬 Ask me about **Flutter, UI/UX**
+- 💬 Ask me about **Flutter, UI/UX, Figma**
 
 - 📫 How to reach me **mukrramkhan37@gmail.com**
 
