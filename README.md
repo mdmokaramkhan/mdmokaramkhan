@@ -24,7 +24,7 @@
 const currentlyLearning = {
     languages: ["Python", "JavaScript", "Dart"],
     frontend: ["HTML5", "CSS3", "Flutter", "NextJS"],
-    backend: ["Node.js", "Express.js"],
+    backend: ["Node.js", "Express.js", "Flask"],
     databases: ["MySQL", "Firebase"],
     tools: ["Git", "Postman", "Figma"]
 };
