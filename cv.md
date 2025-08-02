@@ -16,7 +16,7 @@ Full Stack Developer and B.Tech CSE student at Lovely Professional University wi
 ## 🛠️ Technical Skills
 
 - **Programming:** HTML, CSS, JavaScript, Node.js  
-- **Frameworks:** Flutter  
+- **Frameworks:** Flutter, NextJS
 - **Databases:** MySQL, DBMS  
 - **Tools:** Git, Firebase, Postman  
 - **Other:** API Integration, Server Management
